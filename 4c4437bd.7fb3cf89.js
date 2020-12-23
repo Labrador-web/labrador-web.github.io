@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{80:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/labrador-web.github.io/blog/welcome"},{"title":"Hello","permalink":"/labrador-web.github.io/blog/hello-world"},{"title":"Hola","permalink":"/labrador-web.github.io/blog/hola"}]}')}}]);

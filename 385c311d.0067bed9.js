@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{78:function(o){o.exports=JSON.parse('{"allTagsPath":"/labrador-web.github.io/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/labrador-web.github.io/blog/tags/facebook"}')}}]);
